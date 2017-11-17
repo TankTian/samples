@@ -4,11 +4,11 @@
         xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.service</groupId>
-    <artifactId>liyongjun002</artifactId>
+    <artifactId>liyongjun003</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>liyongjun002</name>
+    <name>liyongjun003</name>
     <url>http://maven.apache.org</url>
 
     <properties>

@@ -1,7 +1,7 @@
 FROM java:8-jdk
 
 WORKDIR /home/apps/
-ADD target/liyongjun002-1.0.0.jar .
+ADD target/liyongjun003-1.0.0.jar .
 ADD target/lib ./lib
 ADD start.sh .
 
